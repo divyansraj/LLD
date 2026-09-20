@@ -1,9 +1,0 @@
-package com.divyanshu.StrategyPattern.WithoutStrategy;
-
-
-public class SportsCar extends Vehicle {
-    @Override
-    public void drive(){
-        System.out.println("HighWay driving mode applied");
-    }
-}
